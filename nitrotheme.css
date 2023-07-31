@@ -155,12 +155,6 @@
 .theme-light .container-YkUktl {
   background: var(--bg-overlay-4, var(--background-tertiary));
 }
-.theme-dark .chat-2ZfjoI,
-.theme-dark .chatContent-3KubbW,
-.theme-light .chat-2ZfjoI,
-.theme-light .chatContent-3KubbW {
-  background: transparent !important;
-}
 .theme-dark .form-3gdLxP,
 .theme-light .form-3gdLxP {
   background-color: transparent;
