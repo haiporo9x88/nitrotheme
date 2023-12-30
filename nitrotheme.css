@@ -198,12 +198,7 @@
 .theme-light .container_ca50b9 {
   background: var(--bg-overlay-4, var(--background-tertiary)) !important;
 }
-.theme-dark .chat__52833,
-.theme-dark .chatContent__5dca8,
-.theme-light .chat__52833,
-.theme-light .chatContent__5dca8 {
-  background: transparent !important;
-}
+
 .theme-dark .form__13a2c,
 .theme-light .form__13a2c {
   background-color: transparent;
