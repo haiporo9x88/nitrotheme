@@ -300,3 +300,11 @@
 .custom-theme-background .typeWindows__5fa63.withBackgroundOverride_b6a351 {
   padding-top: 0;
 }
+
+.theme-dark .rootWithShadow__073a7,
+.theme-light .rootWithShadow__073a7 {
+ background: var(--bg-overlay-2);
+}
+.scroller__9a9ac {
+  background: var(--bg-overlay-2);
+}
