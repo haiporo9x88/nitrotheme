@@ -182,14 +182,14 @@
 .theme-light .container__590e2:after {
   --main-color: transparent;
 }
-.theme-dark .container_d667ff,
-.theme-dark .activityPanel__22355,
-.theme-dark .listeningAlong_f20fb2,
+.theme-dark .container_e1958d,
+.theme-dark .activityPanel_b73e7a,
+.theme-dark .listeningAlong_a3b241,
 .theme-dark .container_6sXIoE,
 .theme-dark #vc-spotify-player,
-.theme-light .container_d667ff,
-.theme-light .activityPanel__22355,
-.theme-light .listeningAlong_f20fb2,
+.theme-light .container_e1958d,
+.theme-light .activityPanel_b73e7a,
+.theme-light .listeningAlong_a3b241,
 .theme-light .container_6sXIoE,
 .theme-light #vc-spotify-player {
   background: var(--bg-overlay-3, var(--background-tertiary)) !important;
