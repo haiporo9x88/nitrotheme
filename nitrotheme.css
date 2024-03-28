@@ -207,26 +207,26 @@
 .theme-light .typing__6fd1d {
   background: var(--bg-overlay-2, var(--background-secondary));
 }
-.theme-dark .wrapper__09ecc,
-.theme-light .wrapper__09ecc {
+.theme-dark .wrapper_a62503,
+.theme-light .wrapper_a62503 {
   background: var(--bg-overlay-3, var(--background-secondary));
 }
-.theme-dark .wrapper__09ecc:not(.groupStart__56db5):before, .theme-dark .wrapper__09ecc:not(.groupStart__56db5):after,
-.theme-light .wrapper__09ecc:not(.groupStart__56db5):before,
-.theme-light .wrapper__09ecc:not(.groupStart__56db5):after {
+.theme-dark .wrapper_a62503:not(.groupStart__56db5):before, .theme-dark .wrapper_a62503:not(.groupStart__56db5):after,
+.theme-light .wrapper_a62503:not(.groupStart__56db5):before,
+.theme-light .wrapper_a62503:not(.groupStart__56db5):after {
   width: calc(var(--message-radius) / 3);
   height: calc(var(--message-radius) / 2);
   top: calc(var(--message-radius) / 2 * -1);
   background: var(--bg-overlay-3, var(--background-secondary));
   border: none;
 }
-.theme-dark .wrapper__09ecc:hover,
-.theme-light .wrapper__09ecc:hover {
+.theme-dark .wrapper_a62503:hover,
+.theme-light .wrapper_a62503:hover {
   background: var(--bg-overlay-4, var(--background-secondary)) !important;
 }
-.theme-dark .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper__09ecc:not(.groupStart__56db5):before, .theme-dark .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper__09ecc:not(.groupStart__56db5):after,
-.theme-light .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper__09ecc:not(.groupStart__56db5):before,
-.theme-light .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper__09ecc:not(.groupStart__56db5):after {
+.theme-dark .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper_a62503:not(.groupStart__56db5):before, .theme-dark .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper_a62503:not(.groupStart__56db5):after,
+.theme-light .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper_a62503:not(.groupStart__56db5):before,
+.theme-light .messageListItem__6a4fb:hover + .messageListItem__6a4fb .wrapper_a62503:not(.groupStart__56db5):after {
   background: var(--bg-overlay-4, var(--background-secondary));
   border: none;
 }
