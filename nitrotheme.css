@@ -308,3 +308,10 @@
 .scroller__9a9ac {
   background: var(--bg-overlay-2);
 }
+
+.theme-dark .chat__52833,
+.theme-dark .chatContent__5dca8,
+.theme-light .chat__52833,
+.theme-light .chatContent__5dca8 {
+  background: transparent !important;
+}
