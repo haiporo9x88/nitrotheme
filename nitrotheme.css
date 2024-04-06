@@ -10,7 +10,8 @@
 .theme-dark .base_c0676e,
 .theme-light .base_c0676e {
   background: var(--bg-overlay-2, var(--background-secondary));
-  border-radius: var(--card-radius-big);
+  border-top-left-radius: var(--card-radius-big);
+  border-top-right-radius: var(--card-radius-big);
 }
 .theme-dark .themed_b152d4,
 .theme-light .themed_b152d4 {
